@@ -23,4 +23,4 @@ A classic Simon Says game built with HTML, CSS, and JavaScript. Test your memory
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/HimanshuKumar101/Simon-Says-Game.git
